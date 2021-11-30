@@ -1,4 +1,4 @@
-# attach-editor
+# SA:MP PLAYER OBJECT ATTACHMENT EDITOR
 
 [![sampctl](https://img.shields.io/badge/sampctl-attach--editor-2f2f2f.svg?style=for-the-badge)](https://github.com/Chaga/attach-editor)
 
