@@ -53,4 +53,5 @@ Command /attach
 ```
 
 When you have finished editing the object, your samp log will appear as shown below:
-(https://i.postimg.cc/156hs4vG/memek.png)
+
+https://i.postimg.cc/156hs4vG/memek.png
