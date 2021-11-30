@@ -46,6 +46,12 @@ sampctl p ensure
 sampctl p build
 ```
 
+4. Run the gamemode
+
+```bash
+sampctl p run
+```
+
 ## Usage
 
 ```bash
