@@ -28,36 +28,29 @@ Happy Pawning!
 
 ## Installation
 
-Simply install to your project:
+1. You have to clone this repository or you can download it directly
 
 ```bash
-sampctl package install Chaga/attach-editor
+git clone https://github.com/LilChaga/player-object-attachment-editor.git
 ```
 
-Include in your code and begin using the library:
+2. Ensure the entire package
 
-```pawn
-#include <attach-editor>
+```bash
+sampctl p ensure
+```
+
+3. Compile the gamemode
+
+```bash
+sampctl p build
 ```
 
 ## Usage
 
-<!--
-Write your code documentation or examples here. If your library is documented in
-the source code, direct users there. If not, list your API and describe it well
-in this section. If your library is passive and has no API, simply omit this
-section.
--->
-
-## Testing
-
-<!--
-Depending on whether your package is tested via in-game "demo tests" or
-y_testing unit-tests, you should indicate to readers what to expect below here.
--->
-
-To test, simply run the package:
-
 ```bash
-sampctl package run
+Command /attach
 ```
+
+When you have finished editing the object, your samp log will appear as shown below:
+(https://i.postimg.cc/156hs4vG/memek.png)
