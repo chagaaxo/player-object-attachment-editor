@@ -28,7 +28,7 @@ Happy Pawning!
 
 ## Installation
 
-1. You have to clone this repository or you can download it directly
+1. You have to clone this repository or you can download it
 
 ```bash
 git clone https://github.com/LilChaga/player-object-attachment-editor.git
