@@ -60,4 +60,4 @@ Command /attach
 
 When you have finished editing the object, your samp log will appear as shown below:
 
-![CHAGA](https://i.postimg.cc/156hs4vG/memek.png)
+[![memek.png](https://i.postimg.cc/156hs4vG/memek.png)](https://postimg.cc/BXqwCZ9b)
