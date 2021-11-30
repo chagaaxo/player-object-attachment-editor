@@ -1,6 +1,6 @@
 # SA:MP Player Object Attachment Editor
 
-[![sampctl](https://img.shields.io/badge/sampctl-attach--editor-2f2f2f.svg?style=for-the-badge)](https://github.com/Chaga/attach-editor)
+[![sampctl](https://img.shields.io/badge/sampctl-attach--editor-2f2f2f.svg?style=for-the-badge)](https://github.com/Chaga/player-object-attachment-editor)
 
 <!--
 Short description of your library, why it's useful, some examples, pictures or
@@ -60,4 +60,4 @@ Command /attach
 
 When you have finished editing the object, your samp log will appear as shown below:
 
-[![memek.png](https://i.postimg.cc/156hs4vG/memek.png)](https://postimg.cc/BXqwCZ9b)
+[![memek.png](https://i.postimg.cc/156hs4vG/memek.png)]
